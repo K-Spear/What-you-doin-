@@ -1,0 +1,5 @@
+{
+  "name": "What you doin? (WYD)",
+  "description": "An anonymous, lightweight social networking service where users observe random real-time 'typing streams' of strangers' thoughts and can dive into threaded conversations.",
+  "requestFramePermissions": []
+}
